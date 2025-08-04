@@ -1,0 +1,42 @@
+title: 欢迎使用
+subtitle: 优选AI导航
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: home
+
+categories:
+  - name: 精品推荐
+    icon: fas fa-star
+    sites:
+      - name: Linux.do
+        url: https://linux.do/
+        icon: fab fa-linux
+        description: 新的理想型社区
+      - name: Google
+        url: https://www.google.com
+        icon: fab fa-google
+        description: 全球最大的搜索引擎
+      - name: GitHub
+        url: https://www.github.com
+        icon: fab fa-github
+        description: 代码托管平台
+      - name: Stack Overflow
+        url: https://stackoverflow.com
+        icon: fab fa-stack-overflow
+        description: 程序员问答社区
+      - name: ChatGPT
+        url: https://chat.openai.com
+        icon: fas fa-robot
+        description: AI智能助手
+      - name: YouTube
+        url: https://www.youtube.com
+        icon: fab fa-youtube
+        description: 视频分享平台
+      - name: Twitter
+        url: https://twitter.com
+        icon: fab fa-twitter
+        description: 社交媒体平台
+      - name: Reddit
+        url: https://www.reddit.com
+        icon: fab fa-reddit
+        description: 社区讨论平台

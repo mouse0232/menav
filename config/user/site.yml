@@ -1,0 +1,35 @@
+title: 优选AI导航
+description: 优选AI导航站
+author: 幸福的耗子
+favicon: favicon.ico
+logo_text: 导航站
+
+fonts:
+  title:
+    family: Poppins
+    weight: 600
+    source: google
+  subtitle:
+    family: Quicksand
+    weight: 500
+    source: google
+  body:
+    family: Noto Sans SC
+    weight: 400
+    source: google
+    
+profile:
+  title: 星友们,
+  subtitle: Welcome to 优选AI
+  description: 免费好用
+
+social:
+  - name: 公众号
+    url: https://github.com
+    icon: fab fa-comments
+  - name: 知识星球
+    url: https://wx.zsxq.com/group/552118585254
+    icon: fab fa-earth-americas
+  - name: 网站
+    url: https://www.mouse0232.cn/
+    icon: fab fa-globe-pointer

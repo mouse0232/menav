@@ -1,0 +1,155 @@
+title: 我的项目
+subtitle: 这里展示了我的一些个人项目和开源贡献
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: projects
+
+categories:
+  - name: 对话互动
+    icon: fas fa-comment
+    sites:
+      - name: 个人导航站
+        icon: fas fa-compass
+        description: 一个简洁美观的个人导航页面
+        url: "#"
+      - name: Todo List
+        icon: fas fa-tasks
+        description: 基于Vue3的待办事项管理器
+        url: "#"
+      - name: 个人博客
+        icon: fas fa-blog
+        description: 使用Hexo搭建的技术博客
+        url: "#"
+  - name: 新闻追踪
+    icon: fas fa-newspaper
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 网页搜索
+    icon: fas fa-searchengin
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 企业查询
+    icon: fas fa-building-magnifying-glass
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 文档解读
+    icon: fas fa-file
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: PDF操作
+    icon: fas fa-file-pdf
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 影音操作
+    icon: fas fa-medium
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 知识库
+    icon: fas  fa-book-open
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 文档生成
+    icon: fas fa-file
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 垂直领域
+    icon: fas fa-solid fa-user-tie
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 效率工具
+    icon: fas fa-business-time
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 翻译
+    icon: fas fa-language
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  - name: 正规军
+    icon: fas fa-copyright
+    sites:
+      - name: Project A
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#"
+      - name: Project B
+        icon: fab fa-github
+        description: 开源项目贡献
+        url: "#" 
+  

@@ -1,0 +1,14 @@
+title: 技术文章
+subtitle: 分享我的技术文章和学习笔记
+
+# 指定使用的模板文件名，现有页面模板可见templates\pages
+template: articles
+
+categories:
+  - name: 最新文章
+    icon: fas fa-pen
+    sites:
+      - name: 免费大模型API指南
+        icon: fab fa-microchip-ai
+        description: 申请大模型API指南
+        url: https://articles.zsxq.com/id_gwvv1gbsiav6.html
