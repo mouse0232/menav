@@ -43,7 +43,7 @@ categories:
         description: 开源项目贡献
         url: "#" 
   - name: 企业查询
-    icon: fas fa-building-magnifying-glass
+    icon: fas fa-building
     sites:
       - name: Project A
         icon: fab fa-github
